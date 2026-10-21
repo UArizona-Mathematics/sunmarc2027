@@ -1,21 +1,29 @@
 ---
 layout: page
-title: SUnMaRC 2026
+title: SUnMaRC 2027
 ---
 
-<p>The 2026 edition of <a href="http://www.sunmarc.org">The Southwestern Undergraduate Mathematics Research Conference</a> (SUnMaRC) takes places on <b>Friday, April 17 through Sunday, April 19</b> at <a href="http://nau.edu">Northern Arizona University</a> in Flagstaff, AZ. SUnMaRC brings together students and faculty from throughout the southwest for a weekend of mathematics. SUnMaRC is designed to provide opportunities for students to attend or present mathematics research in a supportive and fun atmosphere.  In addition to student talks, there are <a href="{{ site.baseurl }}/speakers">invited speakers</a>.</p>
+## April 2–4, 2027 · University of Arizona
 
-<p>The conference began in 2004 as the Arizona Mathematics Undergraduate Conference.  In 2008, the conference changed to SUnMaRC to recognize the participation of institutions throughout the southwest.</p>
+Join us in Tucson, Arizona, for the **Southwestern Undergraduate Mathematics Research Conference**.
 
-If you have any questions about this year's SUnMaRC, please contact one of the conference organizers:
+SUnMaRC brings undergraduate students and faculty together to share mathematics, discover research, and meet colleagues from across the Southwest. The conference offers a welcoming setting for students to explore mathematical ideas and present their work.
 
-- [Jeff Rushall](mailto:jeffrey.rushall@nau.edu)
-- [Matt Fazio](mailto:matthew.fazio@nau.edu)
-- [Ian Williams](mailto:Ian.Williams@nau.edu)
-- [Luke Alvarez](mailto:Luke.Alvarez@nau.edu)
-- [Ryn Huesgen](mailto:Ryn.Huesgen@nau.edu)
+### Plan your visit
 
-The conference is funded by <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2402549">NSF DMS grant #2402549.</a> 
-<img src="{{ site.baseurl }}/NSFlogo.jpg" align="left" width="150" img style="margin: 8px 15px 0 0"/>
+- **Dates:** Friday, April 2 through Sunday, April 4, 2027.
+- **Host:** University of Arizona.
+- **Location:** Tucson, Arizona. Campus buildings and rooms will be announced.
+- **Registration and abstract submissions:** Details to be announced.
 
-<p>This website was created using <a href="https://pages.github.com">GitHub Pages</a> and <a href="http://jekyllrb.com">Jekyll</a> together with <a href="http://hyde.getpoole.com">Hyde</a>. You can find the <a href="http://github.com/NAUMathStat/seminars">source code</a> on GitHub. The site is maintained by <a href="http://dcernst.github.io">Dana C. Ernst</a>. &copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+Explore [registration]({{ site.baseurl }}/registration/), [presentations]({{ site.baseurl }}/call/), [the schedule]({{ site.baseurl }}/schedule/), and [local information]({{ site.baseurl }}/localinfo/). Speaker announcements and lodging arrangements will be added as they are confirmed.
+
+### About SUnMaRC
+
+The conference began in 2004 as the Arizona Mathematics Undergraduate Conference and adopted the SUnMaRC name in 2008. Learn more at the [SUnMaRC main website](https://www.sunmarc.org/).
+
+### Contact
+
+The 2027 organizing committee and conference contact information will be posted here.
+
+<small>Dates announced in the [University of Arizona Math &amp; Stat Majors newsletter](https://uamathstatmajors.wordpress.com/2026/10/05/10-5-26/comment-page-1/). Website built with [Jekyll](https://jekyllrb.com/) and the [Hyde theme](https://github.com/poole/hyde). [Website source]({{ site.github.repo }}).</small>

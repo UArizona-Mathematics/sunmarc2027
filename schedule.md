@@ -3,7 +3,8 @@ layout: page
 title: Schedule
 ---
 
-An overview of the schedule for the conference is provided below.  Student talks are 20 minutes long and should include time for questions at the end. We suggest you plan a talk that lasts 17-18 minutes and allow 2-3 minutes for questions. Student talks will be in SAS 201A and in SAS 221A, and main speaker talks will be in SAS 211. Additional information:
+**April 2–4, 2027 · University of Arizona, Tucson**
 
-- [Overview of schedule](https://naumathstat.github.io/sunmarc2026/SUnMaRCSchedule.pdf) (PDF)
-- [Conference Program](https://naumathstat.github.io/sunmarc2026/SUnMaRC_2026_Program.pdf) (PDF)
+The detailed 2027 schedule, session locations, and conference program will be posted here once confirmed.
+
+Arrival and departure times, student presentation lengths, and invited speaker sessions are still to be announced.

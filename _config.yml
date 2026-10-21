@@ -1,32 +1,38 @@
-# Dependencies
+# GitHub Pages / Jekyll
 markdown: kramdown
-# redcarpet:
-# extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 highlighter: rouge
+permalink: pretty
 
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-# relative_permalinks: true
-
-# Setup
-title:               SUnMaRC 2026
-tagline:             'Northern Arizona University'
-description:         'SUnMaRC 2026'
-url:                 'http://NAUMathStat.github.io'
-baseurl:             '/sunmarc2026'
-paginate:            10
-
-# About/contact
+title: SUnMaRC 2027
+tagline: 'University of Arizona'
+description: 'SUnMaRC 2027'
+url: 'https://uarizona-mathematics.github.io'
+baseurl: '/sunmarc2027'
 author:
-  name:              Dana C. Ernst
-  url:               https://twitter.com/danaernst
-  email:             dana.ernst@nau.edu
-
-# Custom vars
-version:             1.0.0
-
-# GitHub
+  name: SUnMaRC 2027
 github:
-  repo:             github.com/NAUMathStat/sunmarc2026
+  repo: 'https://github.com/UArizona-Mathematics/sunmarc2027'
+
+# Preserve historical files in Git without publishing them as current materials.
+exclude:
+  - README.md
+  - CONTENT-NOTES.md
+  - LICENSE.md
+  - GemFile
+  - Gemfile.lock
+  - _site
+  - SUnMaRCProblems2017.pdf
+  - SUnMaRCSchedule.pdf
+  - SUnMaRC_2026_Program.pdf
+  - abstracts.pdf
+  - contest.pdf
+  - schedule.pdf
+  - Bryant.jpg
+  - HiramSUnMaRC
+  - HiramSUnMaRC.jpg
+  - KathrynSUnMaRC.jpeg
+  - KurtSUnMaRC.jpg
+  - Segerman1.jpg
+  - Segerman2.jpg
+  - Wilson.jpg
+  - NSFlogo.jpg
