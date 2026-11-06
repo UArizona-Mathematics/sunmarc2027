@@ -3,7 +3,7 @@ layout: page
 title: Call for Presentations
 ---
 
-**The 2027 call for presentations will be announced here soon.**
+**The 2027 call for presentations will be announced here.**
 
 SUnMaRC provides a setting for undergraduates to share mathematical work and connect with students and faculty.
 
